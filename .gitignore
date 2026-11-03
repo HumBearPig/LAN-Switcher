@@ -4,6 +4,9 @@
 # Logs
 *.log
 
+# Release archives (built locally for GitHub Releases)
+*.zip
+
 # Windows
 Thumbs.db
 desktop.ini

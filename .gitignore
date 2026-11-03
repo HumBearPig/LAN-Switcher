@@ -1,0 +1,12 @@
+# Playwright MCP (browser automation logs)
+.playwright-mcp/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Visual Studio
+.vs/
